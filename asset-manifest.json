@@ -1,20 +1,26 @@
 {
   "files": {
-    "main.css": "/front-end-portfolio/static/css/main.afd7172b.chunk.css",
-    "main.js": "/front-end-portfolio/static/js/main.8bd543a8.chunk.js",
-    "main.js.map": "/front-end-portfolio/static/js/main.8bd543a8.chunk.js.map",
+    "main.css": "/front-end-portfolio/static/css/main.2b17dd6c.chunk.css",
+    "main.js": "/front-end-portfolio/static/js/main.2a64dd5e.chunk.js",
+    "main.js.map": "/front-end-portfolio/static/js/main.2a64dd5e.chunk.js.map",
     "runtime-main.js": "/front-end-portfolio/static/js/runtime-main.618103d3.js",
     "runtime-main.js.map": "/front-end-portfolio/static/js/runtime-main.618103d3.js.map",
-    "static/js/2.50ed9fca.chunk.js": "/front-end-portfolio/static/js/2.50ed9fca.chunk.js",
-    "static/js/2.50ed9fca.chunk.js.map": "/front-end-portfolio/static/js/2.50ed9fca.chunk.js.map",
+    "static/js/2.9417513b.chunk.js": "/front-end-portfolio/static/js/2.9417513b.chunk.js",
+    "static/js/2.9417513b.chunk.js.map": "/front-end-portfolio/static/js/2.9417513b.chunk.js.map",
     "index.html": "/front-end-portfolio/index.html",
-    "static/css/main.afd7172b.chunk.css.map": "/front-end-portfolio/static/css/main.afd7172b.chunk.css.map",
-    "static/js/2.50ed9fca.chunk.js.LICENSE.txt": "/front-end-portfolio/static/js/2.50ed9fca.chunk.js.LICENSE.txt"
+    "static/css/main.2b17dd6c.chunk.css.map": "/front-end-portfolio/static/css/main.2b17dd6c.chunk.css.map",
+    "static/js/2.9417513b.chunk.js.LICENSE.txt": "/front-end-portfolio/static/js/2.9417513b.chunk.js.LICENSE.txt",
+    "static/media/andrew.d5f2929b.png": "/front-end-portfolio/static/media/andrew.d5f2929b.png",
+    "static/media/birdBook.389353a0.png": "/front-end-portfolio/static/media/birdBook.389353a0.png",
+    "static/media/logo_3.fd70a80c.png": "/front-end-portfolio/static/media/logo_3.fd70a80c.png",
+    "static/media/me.3ef7ef87.jpg": "/front-end-portfolio/static/media/me.3ef7ef87.jpg",
+    "static/media/me1.5034a44f.jpeg": "/front-end-portfolio/static/media/me1.5034a44f.jpeg",
+    "static/media/weekndrLogo.55476c74.png": "/front-end-portfolio/static/media/weekndrLogo.55476c74.png"
   },
   "entrypoints": [
     "static/js/runtime-main.618103d3.js",
-    "static/js/2.50ed9fca.chunk.js",
-    "static/css/main.afd7172b.chunk.css",
-    "static/js/main.8bd543a8.chunk.js"
+    "static/js/2.9417513b.chunk.js",
+    "static/css/main.2b17dd6c.chunk.css",
+    "static/js/main.2a64dd5e.chunk.js"
   ]
 }
